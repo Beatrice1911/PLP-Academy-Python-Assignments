@@ -40,5 +40,5 @@ This project explores the global impact of COVID-19 using data from **Our World 
    ```bash
    jupyter notebook
    
-4. Download the owid-covid-data.csv dataset from Our World in Data and save it in a folder called /data inside the project directory
+4. Download the owid-covid-data.csv dataset from Our World in Data and save it inside the project directory
 
